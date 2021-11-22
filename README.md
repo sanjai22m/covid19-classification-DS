@@ -13,7 +13,7 @@ Language used: Python.
 
 Python modules used: Pandas, Tensorflow, Keras.
 
-Dataset used for model training: <a href="https://www.kaggle.com/pranavraikokte/covid19-image-dataset?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkQuickLabsdatascienceinhealthcareadvancedmachinelearningclassification27247729-2021-01-01">Covid-19 Image Dataset from kaggle</a>
+Dataset used for model training: <a href="https://mega.nz/folder/CbwySSzb#D5wxALorZk93NC7kZur_6w">Covid-19 Image Dataset</a>
 
 ### Machine Learning model used: Convolutional Neural Network (CNN).
 ### Accuracy achieved: 98%
